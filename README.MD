@@ -48,7 +48,7 @@ This project is a comprehensive solution for restaurant and cafe billing, design
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/restaurant-bill-generator.git
+   git clone https://github.com/ayushvadodariya/restaurant-bill-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
