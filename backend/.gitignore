@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+*.log
+
+# Environment variables
+.env
+
+# TypeScript build files
+dist/
+*.tsbuildinfo
